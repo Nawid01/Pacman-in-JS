@@ -15,4 +15,3 @@ export const colors = {
   brightCyan: "\x1b[96m",
   brightWhite: "\x1b[97m",
   }
-
